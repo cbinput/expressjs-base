@@ -1,16 +1,16 @@
 {
-  "name": "api-scales",
+  "name": "expressjs-base",
   "version": "1.0.0",
-  "description": "service to get random scales",
+  "description": "base microservice",
   "author": "losWats",
   "license": "ISC",
-  "homepage": "https://github.com/cbinput/api-scales#readme",
+  "homepage": "https://github.com/cbinput/expressjs-base#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbinput/api-scales.git"
+    "url": "git+https://github.com/cbinput/expressjs-base.git"
   },
   "bugs": {
-    "url": "https://github.com/cbinput/api-scales/issues"
+    "url": "https://github.com/cbinput/expressjs-base/issues"
   },
   "main": "server.js",
   "scripts": {

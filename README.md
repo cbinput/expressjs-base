@@ -1,4 +1,4 @@
-# api-scales
+# expressjs base microservice
 
 ## info
 - node-js v18.4.0

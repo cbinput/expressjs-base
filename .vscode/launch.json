@@ -17,7 +17,7 @@
             "sourceMaps": true,
             "outFiles": ["${workspaceRoot}/src"],
             "skipFiles": [
-                "${workspaceFolder}/api-scales/node_modules/**/*.js"
+                "${workspaceFolder}/expressjs-base/node_modules/**/*.js"
             ],
             "localRoot": "${workspaceRoot}/src",
             "remoteRoot": "${workspaceRoot}/src",
